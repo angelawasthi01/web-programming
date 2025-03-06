@@ -89,7 +89,7 @@
     <div id="box">
         <img src="khushi.jpg" width="200px" height="200px">
         <h1>Front end web developer</h1>
-        <h2>Name: Khushi Pandey</h2>
+        <h2>Name:Angel Awasthi</h2>
         <h2>University: Pimpri Chinchwad University</h2>
     </div>
     <p id="par">I'm a first-year BTech college student with a passion for programming and web development. I've taught myself HTML, CSS, C, and OOPs concepts, and I'm excited to apply my skills in a real-world setting. I look forward to the opportunity to discuss my qualifications further and learn from your team.</p>
